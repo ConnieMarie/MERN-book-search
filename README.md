@@ -28,13 +28,12 @@ While logged in, user can view books save in their account and remove them as th
 ![saved-books](https://user-images.githubusercontent.com/105762638/206319111-45aca08d-2440-4d87-8532-05349ccddd7e.png)
 
 
-  ## Table of Contents
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Projects](#projects)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Projects](#projects)
   
 
   ## Installation
