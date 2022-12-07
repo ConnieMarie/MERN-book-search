@@ -40,7 +40,7 @@ input savedBook {
     link: String
 }
 
-Auth {
+type Auth {
     token: ID!
     user: User
 }
